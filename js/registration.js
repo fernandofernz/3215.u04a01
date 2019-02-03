@@ -96,7 +96,7 @@ function validator() {
     if (checker == 8) {
         // if true, the confirmation page is called
         window.location.href = "confirm.html";
-        alert("all confirm")
+        
     }
 
 }
